@@ -1,23 +1,5 @@
 "use strict"
-
-// Array of objects 
-// var objArr = [ 
-//     { 
-//         name: 'john', 
-//         age: 12, 
-//         gender: 'male'
-//     }, 
-//     { 
-//         name: 'jane', 
-//         age: 15, 
-//         gender: 'female'
-//     }, 
-//     { 
-//         name: 'julie', 
-//         age: 20, 
-//         gender: 'trans'
-//     } 
-// ]; 
+ 
 
 let mealSum = 0
 let tax = .08
